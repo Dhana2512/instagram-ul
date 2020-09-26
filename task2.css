@@ -1,0 +1,187 @@
+.container
+{
+    display:flex;
+}
+body
+{
+    background-color: transparent;
+}
+.main
+{
+    margin: 67px;
+    height: 100vh;
+    width: 27vw;
+    position: absolute;
+    left:14vw;
+}
+.rightbar
+{
+    width:27vw;
+    height:70vh;
+    margin: 67px;
+    background-color:#fff;
+    position:relative;
+    left:43vw;
+    border:1px solid #b0acac;
+}
+.text
+{
+    position: relative;
+    top: 22px;
+    height: 65px;
+    width: 150px;
+    left:106px;
+}
+.email
+{
+    height: 5px;
+    width:18vw;
+    padding:16px;
+}
+.pad
+{
+    padding-left:30px;
+}
+.password
+{
+    height:5px;
+    width:18vw;
+    position: relative;
+    top:10px;
+    padding:16px;
+}
+.login
+{
+    position: relative;
+    top:30px;
+    padding-left:16px;
+    height:30px;
+    width:289px;
+    background-color:#b2dffc;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+}
+.hr
+{
+    position: relative;
+    left:50px;
+    top:60px;
+    color: #fff;
+}
+.or 
+{
+    position: relative;
+    top: 31px;
+    left: 160px;
+    color:#8e91b1;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.hr1
+{
+    position: relative;
+    left:-64px;
+    top: 49px;
+    color: #fff;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+.fb a
+{
+    position: relative;
+    top: 250px;
+    left: 88px;
+    color:darkblue;
+    text-decoration: none;
+}
+.fa
+{
+    position: relative;
+    top: 249px;
+    right: 110px;
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+}
+.pass
+{
+    position: relative;
+    top: 289px;
+    left: 100px;
+    font-size: 13px;
+    color:#5f4386;
+}
+.box
+{
+    height:50px;
+    width:27vw;
+    border:1px solid #b0acac;
+    position: relative;
+    top:188px;
+}
+.acc 
+{
+    text-align: center;
+    position: relative;
+    top:18px;
+    font-size:16px;
+}
+.acc a
+{
+    text-decoration: none;
+    color:#0095f6;
+}
+.text1
+{
+    top:205px;
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+}
+.app 
+{
+    height: 45px;
+    width: 10vw;
+    border: 1px solid black;
+    position: relative;
+    top: 230px;
+    left: 29px;
+    border-radius:5px;
+}
+.app1
+{
+    height: 45px;
+    width: 10vw;
+    border: 1px solid black;
+    position: relative;
+    top: 180px;
+    left: 200px;
+    border-radius:5px;
+}
+footer
+{
+    height: 70px;
+    position: relative;
+    top:220px;
+}
+.foot a
+{
+    position: relative;
+    left:70px;
+    text-decoration: none;
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 7px;
+}
+.copy
+{
+    float:right;
+    font-size: 12px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+    bottom:15px;
+    right:100px;
+}
